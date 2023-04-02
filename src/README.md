@@ -1,0 +1,1 @@
+QoL tool for accessing Crusaders Quest "Stonks" database
